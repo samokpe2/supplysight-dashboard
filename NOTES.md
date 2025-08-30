@@ -122,4 +122,4 @@ Correctly implements the "fulfilled demand" percentage as specified.
 4. **Caching Strategy**: Redis caching and CDN integration
 5. **Database Optimization**: Proper indexing and query optimization
 
-Github Repo : 
+Github Repo : https://github.com/samokpe2/supplysight-dashboard
